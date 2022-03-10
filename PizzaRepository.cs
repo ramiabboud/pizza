@@ -13,15 +13,15 @@ namespace PizzaApp
 
         public PizzaRepository()
         {
-            pizzas.Add(new Pizza { Name="Pizza 1" , PreparationTime = "1", BakingTime = "1" ,
-                                   CuttingTime ="1" , BoxingTime = "1"
+            pizzas.Add(new Pizza { Name="Pepperoni" , PreparationTime = "2 min", BakingTime = "5 min" ,
+                                   CuttingTime ="6 sec" , BoxingTime = "5 sec"
             });
             
-            pizzas.Add(new Pizza { Name="Pizza 2" , PreparationTime = "2", BakingTime = "2",
-                                   CuttingTime ="2", BoxingTime = "2"
+            pizzas.Add(new Pizza { Name="Margarita" , PreparationTime = "1 min", BakingTime = "4 min",
+                                   CuttingTime ="6 sec", BoxingTime = "5 sec"
             });
-            pizzas.Add(new Pizza { Name="Pizza 3" , PreparationTime = "3", BakingTime = "3" ,
-                                   CuttingTime ="3", BoxingTime = "3"
+            pizzas.Add(new Pizza { Name="Mashrooms" , PreparationTime = "3", BakingTime = "6 min" ,
+                                   CuttingTime ="6 sec", BoxingTime = "5 sec"
             });
 
         }
