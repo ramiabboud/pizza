@@ -2,8 +2,7 @@
 ### My name is Rami Abboud.
 ### Thank you " EXACT " for this exciting test, it was fun.
 ### hope you like my code.
-
-<h1 align="center">
-  <br>
-  <img src="https://github.com/ramiabboud/pics/3333.PNG" alt="Foco" width="160">
+# Demo
+<h1>
+<p align="center"><img width=1000 src="https://github.com/ramiabboud/pizza/blob/master/pics/3333.PNG"></p>
 </h1>
